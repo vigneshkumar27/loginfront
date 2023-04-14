@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/loginfront/static/js/main.2e3971f6.js",
+    "index.html": "/loginfront/index.html",
+    "main.2e3971f6.js.map": "/loginfront/static/js/main.2e3971f6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2e3971f6.js"
+  ]
+}
